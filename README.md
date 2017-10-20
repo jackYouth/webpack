@@ -1,2 +1,2 @@
 # webpack
-webpack的相关配置联系
+webpack的相关配置练习
