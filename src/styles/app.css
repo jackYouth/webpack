@@ -1,5 +1,9 @@
+body {
+  font-size: 48px;
+}
 img {
   border: 6px solid #f00;
+  width: 100%;
 }
 
 .testModule {
